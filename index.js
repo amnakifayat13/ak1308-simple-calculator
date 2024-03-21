@@ -27,3 +27,4 @@ else if (answers.operator === "Division") {
 else {
     console.log("Invalid Input");
 }
+console.log("The End");
